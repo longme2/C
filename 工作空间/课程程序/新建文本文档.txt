@@ -1,0 +1,1 @@
+strcmp(p->bookName,book)==0;
